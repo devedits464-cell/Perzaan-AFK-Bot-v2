@@ -8,7 +8,7 @@
   "server": {
     "ip": "SDRDEV1.aternos.me",
     "port": 61457,
-    "version": "1.21.1"
+    "version": "1.19"
   },
   "position": {
     "enabled": true,
