@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SDRDEV1.aternos.me",
+    "ip": "sdrdev1.aternos.me",
     "port": 61457,
     "version": "1.19"
   },
